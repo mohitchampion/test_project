@@ -20,7 +20,7 @@ public class TestVeriable {
 	System.out.println(ob1.a+ob1.b+ob1.c+d+e);
 	TestVeriable ob2=new TestVeriable();
 	System.out.println(ob2.a+ob2.b+ob2.c+d+e);
-	
+	System.ot.println("hello world")
 
 	}
 
